@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.container {
+    margin: auto;
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.github {
+    display: flex;
+}
+
+.email {
+    display: flex;
+}
