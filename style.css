@@ -2,6 +2,7 @@
 
 body {
     font-family: sans-serif;
+    background-color: #FFF096;
 }
 
 h1 {
@@ -12,7 +13,7 @@ h2 {
     text-decoration: underline;
 }
 
-.container {
+.sobre {
     margin: auto;
     width: 70%;
     display: flex;
@@ -20,8 +21,33 @@ h2 {
     align-items: center;
 }
 
+/*.container {
+    margin: auto;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+.curiosidades h2{
+    text-align: center;
+}
+
+.curiosidades ul{
+    margin-left: auto;
+    margin-right: auto;
+    width: 22%;
+}
+
+.contato h2{
+    text-align: center;
+}
+
 .github {
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 8%;
 }
 
 .email {
