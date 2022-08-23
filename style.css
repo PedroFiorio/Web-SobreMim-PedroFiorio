@@ -28,14 +28,6 @@ hr {
     align-items: center;
 }
 
-/*.container {
-    margin: auto;
-    width: 90%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}*/
-
 .curiosidades h2{
     text-align: center;
 }
@@ -55,8 +47,4 @@ hr {
     margin-left: auto;
     margin-right: auto;
     width: 8%;
-}
-
-.email {
-    display: flex;
 }
