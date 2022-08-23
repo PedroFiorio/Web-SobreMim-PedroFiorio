@@ -7,10 +7,17 @@ body {
 
 h1 {
     text-align: center;
+    color: #615b36;
 }
 
 h2 {
     text-decoration: underline;
+    color: #615b36;
+}
+
+hr {
+    border: 1px solid;
+    color: #615b36;
 }
 
 .sobre {
